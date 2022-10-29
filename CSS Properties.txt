@@ -106,3 +106,28 @@ Border-bottom
 Border-left
 
 ==================================================
+CSS Outline Properties(Outline visibles outside of the border)
+
+Outline-Width
+Outline-Style
+Outline-Color
+Outline-offset(space between border and outline)
+--------------------
+CSS Outline Style
+
+Solid
+Dotted
+Dashed
+Double
+Groove
+Ridge
+Inset
+Outset
+None
+--------------------------
+CSS Outline Shorthand
+Outline-width : 2px;
+Outline-style : solid;
+Outline-color: red;
+outline: 2px solid red;
+==================================================

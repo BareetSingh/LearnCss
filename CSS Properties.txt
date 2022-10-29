@@ -131,3 +131,23 @@ Outline-style : solid;
 Outline-color: red;
 outline: 2px solid red;
 ==================================================
+CSS Padding Properties
+Padding-top
+Padding-right
+Padding-bottom
+Padding-left
+
+CSS Padding Shorthand
+-----------------------
+Padding-top: 10px;
+Padding-right: 10px;
+Padding-bottom 10px;
+Padding-left: 10px;
+Padding: 10px;
+
+Padding-top: 10px
+Padding-right: 20px;
+Padding-bottom: 15px;
+Padding-left: 25px;
+Padding: 10px 20px 15px 25px;
+==================================================

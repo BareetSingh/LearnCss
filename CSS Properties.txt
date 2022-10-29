@@ -1,0 +1,78 @@
+CSS Properties
+================
+
+color: for text color
+background-color: for background
+span: to modify specific part of text
+
+=======================================
+tag name selector
+
+h1{
+	
+}
+table{
+	
+}
+--------------------
+class selector
+
+.header{
+	
+}
+
+--------------------
+id selector
+#menu{
+	
+}
+
+<ul id="menu">
+	<li></li>
+	<li></li>
+</ul>
+
+---------------------
+Note: 
+one id can be used only once at a page
+one class can be used multiple times
+=======================================
+
+class selector specifications{
+	.header{
+
+	}
+
+	.list-menu{
+
+	}
+
+	side_text{
+
+	}
+
+	.footerHeading{
+
+	}
+}
+
+
+=======================================
+descendent selector
+
+(where id header, inside that all a tag)
+#header a{
+	
+}
+
+(where class is list, inside that all p tag)
+.list p{
+	
+}
+
+(any ul which has id menu, inside all the li tags)
+ul#menu li{
+
+}
+
+================================================

@@ -151,3 +151,32 @@ Padding-bottom: 15px;
 Padding-left: 25px;
 Padding: 10px 20px 15px 25px;
 ==================================================
+
+CSS Margin Properties
+Margin-top
+Margin-right
+Margin-bottom
+Margin-left
+
+CSS Margin Shorthand
+Margin-top: 10px;
+Margin-right 10px;
+Margin-bottom 10px;
+Margin-left: 10px;
+Margin:10px;
+
+CSS Margin Shorthand
+Margin-top 10px;
+Margin-right: 20px;
+Margin-bottom 15px;
+Margin-left 25px;
+Margin: 10px 20px 15px 25px;
+
+CSS Margin Auto(Mainly ise to set div in center)
+Margin-top: 10px;
+Margin-right : auto;
+Margin-bottom: 10px;
+Margin-left: auto;
+
+===============================================
+

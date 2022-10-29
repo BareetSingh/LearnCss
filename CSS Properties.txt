@@ -180,3 +180,12 @@ Margin-left: auto;
 
 ===============================================
 
+CSS Box-Sizing 
+The box-sizing property defines how the width and height of an element are calculated: 
+should they include padding and borders, or not.
+
+box-sizing: content-box;  
+box-sizing: border-box;
+
+=========================================================
+

@@ -76,3 +76,33 @@ ul#menu li{
 }
 
 ================================================
+CSS Border Properties
+Border-Width
+Border-Style
+Border-Color
+---------------------------
+CSS Border Style
+Solid
+Dotted
+Dashed
+Double
+Groove
+Ridge
+Inset
+Outset
+None
+Mix
+-------------------------
+CSS Border Shorthand
+border-width 2px;
+border-style : solid;
+border-color: red;
+border: 2px solid red;
+----------------------------
+CSS Border Side
+Border-top
+Border-right
+Border-bottom
+Border-left
+
+==================================================

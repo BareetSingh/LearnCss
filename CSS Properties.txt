@@ -179,6 +179,11 @@ Margin-bottom: 10px;
 Margin-left: auto;
 
 ===============================================
+CSS Height & Width
+
+===============================================
+CSS Min-Height & Min-Width
+===============================================
 
 CSS Box-Sizing 
 The box-sizing property defines how the width and height of an element are calculated: 
@@ -188,4 +193,16 @@ box-sizing: content-box;
 box-sizing: border-box;
 
 =========================================================
+Overflow
+---------
+Hidden
+Scroll
+Auto
+Visible
 
+3 Type of Overflow Properties
+Overflow
+overflow-x
+Overflow-y
+
+========================================================
